@@ -32,7 +32,7 @@ namespace CA1
         /// </summary>
         public void Shuffle() {
             // Gets size of the collection
-            // For element retrieving operations, it will not result in IndexOutOfBounds as it's decremnted in the following loop
+            // For element retrieving operations, it will not result in IndexOutOfBounds as it's decremented in the following loop
             int len = _cards.Length;
 
             // Swaps cards in order from the highest index with a random index 
