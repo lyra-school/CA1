@@ -5,7 +5,7 @@
 namespace CA1
 {
     // Possible choices during each turn
-    // NOTE: I use 'Hit' and 'Stand' instead of Stick/Twist, though they mean the same thing, as that terminology is more familiar to me
+    // NOTE: I use 'Hit' and 'Stand' instead of Stick/Twist, even though they mean the same thing, as that terminology is more familiar to me
     public enum TurnChoice {
         Hit,
         Stand
